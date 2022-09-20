@@ -1,6 +1,6 @@
 ### Eai! Meu nome é Thales de Souza Guasti, mas pode me chamar de Th
 
-<img align="right" alt="Rafa-pic" height="90" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905507717249122324/1021875563201306765/Screenshot_2022-07-12-15-48-10-019_com.miui.gallery.jpg">
+<img align="right" alt="Thales-pic" margin-top="10px" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/905507717249122324/1021875563201306765/Screenshot_2022-07-12-15-48-10-019_com.miui.gallery.jpg">
 </div>
   
   ## BIO
