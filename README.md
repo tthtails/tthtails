@@ -1,8 +1,10 @@
 ### Eai! Meu nome é Thales de Souza Guasti, mas pode me chamar de Th
  
-<img align="right" alt="Thales-pic" height="150" src="https://cdn.discordapp.com/attachments/905507717249122324/1021875563201306765/Screenshot_2022-07-12-15-48-10-019_com.miui.gallery.jpg">
+
   
   ## BIO
+
+  <img align="right" alt="Thales-pic" height="150" src="https://cdn.discordapp.com/attachments/905507717249122324/1021875563201306765/Screenshot_2022-07-12-15-48-10-019_com.miui.gallery.jpg">
 
   <div>
   <p>Tenho 19 anos. Amo área de tecnologia desde muito novo, é a minha área. Estou no 2° Período de Tecnologia em Sistemas para Internet no IFES Santa Teresa.</p>
